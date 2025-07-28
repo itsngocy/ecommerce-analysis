@@ -26,6 +26,7 @@ Created 3 interactive dashboards using Tableau to analyze different aspects of t
 - **Product Analysis:** Reveals top-selling products, most returned items and sales trends by product categories.
 <img width="1300" height="800" alt="Screenshot 2025-07-18 020932" src="https://github.com/user-attachments/assets/64e6b00f-08f5-41f6-9d27-0068dea948a0" />
 
+
 📎 Dashboards on Tableau Public: [Link](https://public.tableau.com/app/profile/y.ho.thi.ngoc/viz/Nhom11_ProjectCK/SalesPerformance)
 
 ## 🧠 Insights Summary
