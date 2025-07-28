@@ -18,13 +18,13 @@ Conducted simple data cleaning:
 Created 3 interactive dashboards using Tableau to analyze different aspects of the dataset: 
 
 - **Sales Performance:** Shows total revenue, order volume, return rates and sales trends over time.
-<img width="1300" height="800" alt="Screenshot 2025-07-18 013259" src="https://github.com/user-attachments/assets/ed2b9a6b-a0b8-4518-816c-8fa72933553c" />
+<img width="1200" height="700" alt="Screenshot 2025-07-18 013259" src="https://github.com/user-attachments/assets/ed2b9a6b-a0b8-4518-816c-8fa72933553c" />
 
 - **Customer Insights:** Highlights customer distribution, purchase behavior, top customers and segmentation.
-<img width="1300" height="800" alt="Screenshot 2025-07-18 015017" src="https://github.com/user-attachments/assets/8ea055c5-61e3-4977-87c1-98fba28babbe" />
+<img width="1200" height="700" alt="Screenshot 2025-07-18 015017" src="https://github.com/user-attachments/assets/8ea055c5-61e3-4977-87c1-98fba28babbe" />
 
 - **Product Analysis:** Reveals top-selling products, most returned items and sales trends by product categories.
-<img width="1300" height="800" alt="Screenshot 2025-07-18 020932" src="https://github.com/user-attachments/assets/64e6b00f-08f5-41f6-9d27-0068dea948a0" />
+<img width="1200" height="700" alt="Screenshot 2025-07-18 020932" src="https://github.com/user-attachments/assets/64e6b00f-08f5-41f6-9d27-0068dea948a0" />
 
 
 📎 Dashboards on Tableau Public: [Link](https://public.tableau.com/app/profile/y.ho.thi.ngoc/viz/Nhom11_ProjectCK/SalesPerformance)
